@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://whjstc.github.com/atom.xml" rel="self"/>
-  <link href="http://whjstc.github.com/"/>
-  <updated>2013-03-16T13:51:00+08:00</updated>
-  <id>http://whjstc.github.com/</id>
+  <title><![CDATA[WHJ's introspection]]></title>
+  <link href="http://blog.wuhanjian.com/atom.xml" rel="self"/>
+  <link href="http://blog.wuhanjian.com/"/>
+  <updated>2013-03-16T14:28:45+08:00</updated>
+  <id>http://blog.wuhanjian.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[wu hanjian]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[title]]></title>
-    <link href="http://whjstc.github.com/blog/2013/03/16/title/"/>
+    <link href="http://blog.wuhanjian.com/blog/2013/03/16/title/"/>
     <updated>2013-03-16T12:15:00+08:00</updated>
-    <id>http://whjstc.github.com/blog/2013/03/16/title</id>
+    <id>http://blog.wuhanjian.com/blog/2013/03/16/title</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

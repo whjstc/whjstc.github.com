@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://whjstc.github.com/blog/2013/03/16/title/</loc>
+        <loc>http://blog.wuhanjian.com/blog/2013/03/16/title/</loc>
         <lastmod>2013-03-16T12:15:28+08:00</lastmod>
     </url>
     <url>
-        <loc>http://whjstc.github.com/blog/archives/</loc>
+        <loc>http://blog.wuhanjian.com/blog/archives/</loc>
         <lastmod>2013-03-16T12:15:28+08:00</lastmod>
     </url>
     <url>
-        <loc>http://whjstc.github.com/robots.txt</loc>
+        <loc>http://blog.wuhanjian.com/robots.txt</loc>
         <lastmod>2013-03-16T12:06:06+08:00</lastmod>
     </url>
     <url>
-        <loc>http://whjstc.github.com/</loc>
+        <loc>http://blog.wuhanjian.com/</loc>
         <lastmod>2013-03-16T12:15:28+08:00</lastmod>
     </url>
 </urlset>
